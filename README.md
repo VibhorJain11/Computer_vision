@@ -15,7 +15,7 @@ This repository contains **4 projects** demonstrating practical applications of 
 3. **Hand Gesture Control Module**  
    A reusable Python class leveraging MediaPipe for hand landmark detection, finger counting, and distance measurement between points on the hand.
 
-4.**Gesture-Controlled Draggable and Resizable Rectangles**
+4. **Gesture-Controlled Draggable and Resizable Rectangles**
    Use finger pinch gestures to drag and resize multiple interactive rectangles on screen via real-time hand tracking with cvzone and OpenCV.
 
 ---
