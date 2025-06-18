@@ -1,6 +1,6 @@
 # Computer Vision & Gesture Control Projects
 
-This repository contains **4 projects** demonstrating practical applications of computer vision, hand gesture recognition, and interactive controls using Python, OpenCV, and MediaPipe.
+This repository contains ** projects** demonstrating practical applications of computer vision, hand gesture recognition, and interactive controls using Python, OpenCV, and MediaPipe.
 
 ---
 
